@@ -1,0 +1,5 @@
+Marius Orehovschi
+
+This is my final project in the Data Structures and Algorithms course at Colby College in the fall of 2018. This game is an implementation of the classic game of Hunt The Wumpus using the graph data structure.
+
+To play, compile the java files and run the HuntTheWumpus.class file.
